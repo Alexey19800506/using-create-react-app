@@ -7,7 +7,7 @@ const rootElement = document.querySelector('#root');
 const element = ( 
 <div className = "greeting" >
    <h1 className = "greeting-title" > Hello, world! </h1>
-   <p className = "greeting-text" > I 'm learning React</p>
+   <p className = "greeting-text" > I am learning React</p>
 </div>  
 );
 
