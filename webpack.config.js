@@ -1,10 +1,6 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-    entry: './src/index.js',
-    output: {
-        filename: 'review_build.js'
-    },
     module: {
         rules: [{
                 test: /.js$/,
